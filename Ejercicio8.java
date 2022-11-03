@@ -8,7 +8,7 @@ public class Ejercicio8 {
         System.out.print("Introduzca un numero");
         int numLeido = sc.nextInt();
         for (int i = 0; i<=10; i++){
-        System.out.print(numLeido , i , numLeido * i);
+        System.out.print( numLeido , i , numLeido * i);
         }sc.close();
     }
 
